@@ -1,0 +1,360 @@
+<!--
+theme name:     Hursty Blue
+version         1.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+   <formatVersion>4</formatVersion>
+
+   <view name="system">
+      <image name="system-background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <tile>false</tile>
+         <path>./_inc/images/backgroundmenu.png</path>
+      </image>
+      <carousel name="systemcarousel">
+        <type>vertical</type>
+		<pos>0.003 .101</pos>
+        <size>.14 .75</size>
+        <logoScale>1</logoScale>
+        <logoSize>0.13 0.15</logoSize>
+        <color>000000</color>
+		<maxLogoCount>8</maxLogoCount>
+      </carousel>
+	  <text name="logoText">
+	     <color>ffaa00</color>
+         <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+		 <fontSize>0.04</fontSize>
+		 <size>0.13 0.01</size>
+		 <backgroundColor>000000</backgroundColor>
+		 <forceUppercase>true</forceUppercase>		 
+		 <alignment>right</alignment>
+	  </text>
+      <image name="sysinfo-lt" extra="true">
+	     <origin>0 0</origin>
+         <pos>0.24 0.125</pos>
+         <tile>false</tile>
+         <path>./_inc/images/band.png</path>
+      </image>
+      <text name="systemInfo">
+         <pos>0.26 0.1</pos>
+		 <size>.3 .14</size>
+         <color>ffffff</color>
+         <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+	     <fontSize>0.05</fontSize>
+		 <alignment>center</alignment>
+      </text>  
+      <image name="decal-bg" extra="true">
+         <origin>0 0</origin>
+         <pos>0.185 0.3</pos>
+		 <size>0.416 0.555</size>
+         <path>./_inc/images/decalgrid.png</path>
+      </image> 
+   </view>
+
+   <view name="system">
+      <helpsystem name="help">
+	     <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <fontSize>0.03</fontSize>
+         <pos>0.47 0.943</pos>      
+         <textColor>000000</textColor>
+         <iconColor>000000aa</iconColor>
+      </helpsystem>
+   </view>
+   <view name="basic, detailed, video">
+      <helpsystem name="help">
+	     <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <fontSize>0.03</fontSize>
+         <pos>0.32 0.943</pos>      
+         <textColor>000000</textColor>
+         <iconColor>000000aa</iconColor>
+      </helpsystem>
+   </view>
+
+   <view name="basic, detailed, video">
+	  <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <tile>false</tile>
+         <path>./_inc/images/crtv.png</path>
+      </image>      
+      <textlist name="gamelist">
+         <pos>0.008 0.179</pos>
+         <size>0.13 0.68</size>
+         <selectorColor>7788ffff</selectorColor>
+         <selectedColor>000000</selectedColor>
+         <primaryColor>eaeaea</primaryColor>
+         <secondaryColor>eaeaea</secondaryColor>
+         <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <fontSize>0.029</fontSize>
+         <forceUppercase>1</forceUppercase>
+         <scrollSound>./_inc/audio/scroll.wav</scrollSound>
+         <alignment>right</alignment>
+		 <horizontalMargin>.005</horizontalMargin>
+      </textlist>
+	  <image name="buttons" extra="true">
+		 <origin>0 0</origin>
+		 <pos>0.008 0.172</pos>
+		 <size>0.13 0.68</size>
+		 <tile>true</tile>
+		 <path>./_inc/images/button.png</path>
+	  </image>
+   </view>
+
+   <view name="basic, detailed, video">
+      <text name="md_lbl_rating">
+		 <pos>1 1</pos>
+		 <fontSize>0.02</fontSize>         
+		 <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <color>00000000</color>   
+	  </text>
+      <text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount, md_lastplayed">
+         <pos>0 0</pos>
+		 <fontSize>0.02</fontSize>         
+		 <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <color>cccccc</color>   
+      </text>
+      <text name="md_lastplayed,md_description,md_lbl_players,md_players,md_genre,md_lbl_genre,md_releasedate,md_lbl_releasedate,md_lbl_lastplayed,md_lbl_playcount,md_playcount">
+         <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <fontSize>0.02</fontSize>
+		 <color>EFF700</color> 
+      </text>
+	  <image name="grid1" extra="true">
+		<origin>0 0</origin>
+		<pos>0.17 0.1</pos>
+		<path>./_inc/images/grid-1.png</path>
+	  </image>
+      <rating name="md_rating">
+		 <origin>0 0</origin>
+         <pos>0.18 0.24</pos>
+         <size>0.05 0.05</size>
+         <filledPath>./_inc/images/star_filled.svg</filledPath>
+         <unfilledPath>./_inc/images/star_empty.svg</unfilledPath>
+		 <rotation>90</rotation>
+      </rating>
+  
+	  <image name="grid3" extra="true">
+	    <origin>0 0</origin>
+		<pos>0.635 0.1</pos>
+		<path>./_inc/images/grid-3.png</path>
+	  </image>
+	  <image name="grid31" extra="true">
+	    <origin>0 0</origin>
+		<pos>0.635 0.47</pos>
+		<path>./_inc/images/grid-3.png</path>
+		<rotation>180</rotation>
+	  </image>
+	  <image name="grid32" extra="true">
+	    <origin>0 0</origin>
+		<pos>0.635 0.194</pos>
+		<size>0.004 0.27</size>
+		<path>./_inc/squares/violet-dot.png</path>
+	  </image>
+	  <image name="grid33" extra="true">
+	    <origin>0 0</origin>
+		<pos>0.943 0.194</pos>
+		<size>0.004 0.27</size>
+		<path>./_inc/squares/violet-dot.png</path>
+	  </image>
+	  <text name="md_lbl_developer">
+         <pos>0.655 0.16</pos>
+         <size>0.08 0.04</size>
+         <fontSize>0.025</fontSize>         
+         <color>cccccc</color>         
+		</text>
+      <text name="md_developer">
+         <pos>0.73 0.16</pos>
+         <size>0.2 0.04</size>
+         <fontSize>0.025</fontSize>        
+         <color>EFF700</color> 
+      </text>  
+	  <text name="md_lbl_publisher">
+         <pos>0.655 0.21</pos>
+         <size>0.08 0.04</size>
+         <fontSize>0.025</fontSize>         
+         <color>cccccc</color>         
+		</text>
+      <text name="md_publisher">
+         <pos>0.73 0.21</pos>
+         <size>0.2 0.04</size>
+         <fontSize>0.025</fontSize>        
+         <color>EFF700</color> 
+      </text>  	  
+      <text name="md_lbl_lastplayed">
+         <pos>0.655 0.26</pos>
+         <size>0.08 0.04</size>
+         <fontSize>0.025</fontSize>         
+         <color>cccccc</color>         
+		</text>
+      <datetime name="md_lastplayed">
+         <pos>0.73 0.26</pos>
+         <size>0.2 0.04</size>
+         <fontSize>0.025</fontSize>         
+         <color>EFF700</color> 
+	  </datetime>      
+      <text name="md_lbl_players">
+         <pos>0.655 0.31</pos>
+         <size>0.08 0.04</size>
+         <fontSize>0.025</fontSize>     
+         <color>cccccc</color>         
+      </text>
+      <text name="md_players">
+         <pos>0.73 0.31</pos>
+         <size>0.2 0.04</size>
+         <fontSize>0.025</fontSize>        
+         <color>EFF700</color> 
+      </text>
+      <text name="md_lbl_genre">
+         <pos>0.655 0.36</pos>
+         <size>0.08 0.04</size>
+         <fontSize>0.025</fontSize>     
+         <color>cccccc</color>       
+      </text>
+      <text name="md_genre">
+         <pos>0.73 0.36</pos>
+         <size>0.2 0.04</size>
+         <fontSize>0.025</fontSize>        
+         <color>EFF700</color> 
+      </text>      
+      <text name="md_lbl_releasedate">
+         <pos>0.655 0.41</pos>
+         <size>0.08 0.04</size>
+         <fontSize>0.025</fontSize>     
+         <color>cccccc</color>         
+      </text>
+      <datetime name="md_releasedate">
+         <pos>0.73 0.41</pos>
+         <size>0.2 0.04</size>
+         <fontSize>0.025</fontSize>        
+         <color>EFF700</color> 
+      </datetime>
+      <text name="md_lbl_playcount">
+         <pos>0.655 0.46</pos>
+         <size>0.08 0.04</size>
+         <fontSize>0.025</fontSize>     
+         <color>cccccc</color>        
+      </text>
+      <text name="md_playcount">
+         <pos>0.73 0.46</pos>
+         <size>0.2 0.04</size>
+         <fontSize>0.025</fontSize>        
+         <color>EFF700</color> 
+      </text> 
+	  <text name="md_name">
+		 <origin>0 0.001</origin>
+         <pos>0.747 0.007</pos>
+		 <size>0.2 0.055</size>
+         <fontSize>0.04</fontSize>    
+		 <alignment>right</alignment>
+		 <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>		 
+         <color>000000</color> 
+		 <zIndex>48</zIndex>
+		 <forceUppercase>true</forceUppercase>
+	  </text>
+   </view>
+
+   <view name="detailed,">
+	  <image name="grid2" extra="true">
+		<origin>0 0</origin>
+		<pos>0.17 0.58</pos>
+		<size>0.025 0.34</size>
+		<path>./_inc/images/grid-2.png</path>
+	  </image>
+	  <image name="grid21" extra="true">
+		<origin>0 0</origin>
+		<pos>0.935 0.58</pos>
+		<size>0.025 0.34</size>
+		<path>./_inc/images/grid-2.png</path>
+		<rotation>180</rotation>		
+	  </image>
+	  <image name="sep1" extra="true">
+		<origin>0 0</origin>
+		<pos>0.198 0.58</pos>
+		<size>0.733 0.006</size>
+		<path>./_inc/squares/ice-dot.png</path>
+	  </image>
+	  <image name="sep2" extra="true">
+		<origin>0 0</origin>
+		<pos>0.198 0.914</pos>
+		<size>0.733 0.006</size>
+		<path>./_inc/squares/ice-dot.png</path>
+	  </image>
+      <image name="md_image">
+		 <origin>0 0</origin>
+         <pos>0.23 0.1</pos>
+         <zIndex>45</zIndex>
+         <maxSize>0.35 0.46</maxSize>
+		 <default>./_inc/images/nocover.png</default>
+      </image>
+
+	  <text name="md_description">
+	     <origin>0 0</origin>
+         <pos>0.19 0.595</pos>
+         <size>0.75 0.31</size>
+         <fontSize>0.025</fontSize>         
+         <color>FFCC66</color>
+      </text>
+   </view>
+
+   <view name="video">
+      <image name="logo">
+         <pos>0.5 0.096</pos>
+         <maxSize>0.87 0.25</maxSize>
+      </image>   
+	  <image name="grid2" extra="true">
+		<origin>0 0</origin>
+		<pos>0.17 0.58</pos>
+		<size>0.025 0.34</size>
+		<path>./_inc/images/grid-2.png</path>
+	  </image>
+	  <image name="grid21" extra="true">
+		<origin>0 0</origin>
+		<pos>0.51 0.58</pos>
+		<size>0.025 0.34</size>
+		<path>./_inc/images/grid-2.png</path>
+		<rotation>180</rotation>		
+	  </image>
+	  <image name="sep1" extra="true">
+		<origin>0 0</origin>
+		<pos>0.198 0.58</pos>
+		<size>0.313 0.006</size>
+		<path>./_inc/squares/ice-dot.png</path>
+	  </image>
+	  <image name="sep2" extra="true">
+		<origin>0 0</origin>
+		<pos>0.198 0.914</pos>
+		<size>0.313 0.006</size>
+		<path>./_inc/squares/ice-dot.png</path>
+	  </image>
+      <image name="md_image">
+		 <origin>0 0</origin>
+         <pos>0.23 0.1</pos>
+         <zIndex>45</zIndex>
+         <maxSize>0.35 0.46</maxSize>
+		 <default>./_inc/images/nocover.png</default>
+      </image>
+
+      <video name="md_video">
+         <pos>0.794 0.745</pos>
+         <zIndex>45</zIndex>
+         <maxSize>0.325 0.34</maxSize>
+         <delay>0.00</delay>
+		 <default>./_inc/videos/static.mp4</default>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+         <showSnapshotDelay>true</showSnapshotDelay>
+      </video>
+
+	  <text name="md_description">
+	     <origin>0 0</origin>
+         <pos>0.19 0.6</pos>
+         <size>0.325 0.30</size>
+         <fontSize>0.025</fontSize>         
+         <color>FFCC66</color>
+      </text>
+   </view>
+   
+</theme>
