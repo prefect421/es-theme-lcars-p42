@@ -41,23 +41,5 @@
 				   <default>./../_inc/images/noconsole.png</default>
                 </image>			
 
-	<!--  <image name="grid-s31" extra="true">
-	    <origin>0 0</origin>
-		<pos>0.645 0.47</pos>
-		<path>./../_inc/images/grid-3.png</path>
-		<rotation>180</rotation>
-	  </image>
-	  <image name="grid-s32" extra="true">
-	    <origin>0 0</origin>
-		<pos>0.645 0.194</pos>
-		<size>0.004 0.27</size>
-		<path>./../_inc/squares/violet-dot.png</path>
-	  </image>
-	  <image name="grid-s33" extra="true">
-	    <origin>0 0</origin>
-		<pos>0.953 0.194</pos>
-		<size>0.004 0.27</size>
-		<path>./../_inc/squares/violet-dot.png</path>
-	  </image>-->
 	</view>
 </theme>
