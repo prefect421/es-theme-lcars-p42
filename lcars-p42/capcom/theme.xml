@@ -1,12 +1,12 @@
 <theme>
-	<formatVersion>4</formatVersion>
-	<include>./../theme.xml</include>
-	<view name="system">
-		<image name="logo">
-			<path>./_inc/system.png</path>
-		</image>
-	</view>
-	<view name="detailed, video, basic">
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <image name="logo">
+            <path>./_inc/system.png</path>
+        </image>
+    </view>
+    <view name="detailed, video, basic">
 
                 <image name="crtv" extra="true">
                    <origin>0 0</origin>
@@ -14,33 +14,31 @@
                    <size>1 1</size>
                    <path>./_inc/crtv.png</path>
                 </image>
-				<image name="logo2" extra="true">
-					<path>./_inc/system.png</path>
-					<origin>0 0</origin>
-					<pos>0.008 0.095</pos>
-				</image>
-	</view>
-	<view name="system">
-				<image name="grid-s3" extra="true">
-					<origin>0 0</origin>
-					<pos>0.645 0.1</pos>
-					<path>./../_inc/images/grid3-full.png</path>
-				</image>
-				<image name="decal" extra="true">
+                <image name="logo2" extra="true">
+                    <path>./_inc/system.png</path>
+                    <origin>0 0</origin>
+                    <pos>0.008 0.095</pos>
+                </image>
+    </view>
+    <view name="system">
+                <image name="grid-s3" extra="true">
+                    <origin>0 0</origin>
+                    <pos>0.645 0.1</pos>
+                    <path>./../_inc/images/grid3-full.png</path>
+                </image>
+                <image name="decal" extra="true">
                    <origin>0 0</origin>
-                   <pos>0.215 0.325</pos>
+                   <pos>0.215 0.518029725003974</pos>
                    <maxSize>.35 .55</maxSize>
                    <path>./_inc/logo.svg</path>
-				   <default>./../_inc/images/nologo.png</default>
+                   <default>./../_inc/images/nologo.png</default>
                 </image>
-				<image name="console" extra="true">
+                <image name="console" extra="true">
                    <origin>0 0</origin>
-                   <pos>0.65 0.14</pos>
+                   <pos>0.686458333333333 0.1375</pos>
                    <maxSize>.3 .72</maxSize>
                    <path>./_inc/console.png</path>
-				   <default>./../_inc/images/noconsole.png</default>
-                </image>			
-
-
-	</view>
+                   <default>./../_inc/images/noconsole.png</default>
+                </image>            
+    </view>
 </theme>
