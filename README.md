@@ -92,6 +92,6 @@ This theme has been tuned to run on RetroPie at a resolution of 1920x1080.
 </ul>
 <hr>
 <h3>Logo Notice</h3>
-<hr>
-The used logos and trademarks are copyright of their respective owners.
 
+The used logos and trademarks are copyright of their respective owners.
+<hr>
