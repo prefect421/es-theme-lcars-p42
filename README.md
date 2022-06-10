@@ -91,6 +91,26 @@ This theme has been tuned to run on RetroPie at a resolution of 1920x1080.
 <li>ZX Spectrum
 </ul>
 <hr>
+<H3> How to Install LCARS-p42</h3>
+1. Close EmulationStation
+2. If it does not exist, create folder ~/.emulationstation/themes
+3. In a terminal run
+   <blockquote>
+   cd ~/.emulationstation/themes
+		 
+   git clone https://github.com/prefect421/es-theme-lcars-p42.git
+  </blockquote>
+ <hr>
+	<H3> How to Update LCARS-p42</h3>
+1. Close EmulationStation
+3. In a terminal run
+   <blockquote>
+   cd ~/.emulationstation/themes/es-theme-lcars-p42
+	
+   git pull
+  </blockquote>
+ <hr>
+	
 <h3>Logo Notice</h3>
 
 The used logos and trademarks are copyright of their respective owners.
