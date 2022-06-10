@@ -1,4 +1,4 @@
-![LCARS_42](https://user-images.githubusercontent.com/70246999/173077923-f0a2492b-0245-45c7-9182-6130f7dc3a76.png)
+![LCARS_42](https://user-images.githubusercontent.com/70246999/173084025-34aa887f-0237-4d5b-a3bc-26ff8c11726b.png)
 
 # es-theme-lcars-p42!
 
@@ -6,8 +6,7 @@ Step into the latest computer interface the 24th century has to offer with this 
 
 Theme lcars-p42 for use with EmulationStation. 
 This theme has been tuned to run on RetroPie at a resolution of 1920x1080.
-
- ![lcar-bar](https://user-images.githubusercontent.com/70246999/173083450-d35f35e3-d7b7-4064-8582-58af9ded1150.png)
+<hr>
 
 <h3>System Modes</h3>
 <UL>
@@ -15,7 +14,7 @@ This theme has been tuned to run on RetroPie at a resolution of 1920x1080.
   <li>Detailed
   <li>Video
 </ul>
-![lcar-bar](https://user-images.githubusercontent.com/70246999/173083740-24e02b83-ebcd-4725-9ae2-b124ae43c926.png)
+<hr>
 
 <h3>Compatible Systems</h3>
 <ul>
@@ -88,5 +87,6 @@ This theme has been tuned to run on RetroPie at a resolution of 1920x1080.
 <li>Z-Machine
 <li>ZX Spectrum
 </ul>
-![lcar-bar](https://user-images.githubusercontent.com/70246999/173083765-dbe0ece2-584e-4b2d-8992-b48846e596a6.png)
+<hr>
+
 
