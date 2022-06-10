@@ -103,7 +103,7 @@ This theme has been tuned to run on RetroPie at a resolution of 1920x1080.
  <hr>
 	<H3> How to Update LCARS-p42</h3>
 1. Close EmulationStation
-3. In a terminal run
+2. In a terminal run
    <blockquote>
    cd ~/.emulationstation/themes/es-theme-lcars-p42
 	
