@@ -7,7 +7,10 @@ Step into the latest computer interface the 24th century has to offer with this 
 Theme lcars-p42 for use with EmulationStation. 
 This theme has been tuned to run on RetroPie at a resolution of 1920x1080.
 <hr>
+<h3>Screen Shot</h3>
 
+![lcars-screenshot](https://user-images.githubusercontent.com/70246999/173098188-0e4a05fb-7250-4b55-82da-fb8726290650.png)
+<hr>
 <h3>System Modes</h3>
 <UL>
   <li>Basic - (same as detailed)
@@ -27,12 +30,12 @@ This theme has been tuned to run on RetroPie at a resolution of 1920x1080.
 <li>Atari 2600
 <li>Atari 5200
 <li>Atari 7800
-<li>Atari falcon
-<li>Atari jaguar
-<li>Atari jaguarcd
-<li>Atari lynx
-<li>Atari st
-<li>Atari xe
+<li>Atari Falcon
+<li>Atari Jaguar
+<li>Atari Jaguar CD
+<li>Atari Lynx
+<li>Atari ST
+<li>Atari XE
 <li>BBC Micro
 <li>Commodore 64
 <li>Channel F
