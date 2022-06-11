@@ -104,6 +104,7 @@ version         1.0
 		 <path>./_inc/images/button.png</path>
 	  </image>
    </view>
+
    <view name="basic, detailed, video">
       <text name="md_lbl_rating">
 		 <pos>1 1</pos>
