@@ -6,15 +6,23 @@ Step into the latest computer interface the 24th century has to offer with this 
 
 This theme has been tuned to run at a resolution of 1920x1080.
 <hr>
-<h3>Screen Shot</h3>
+<h3>Screen Shots</h3>
+<b>Main Menu</b>
 
 ![lcars-screenshot](https://user-images.githubusercontent.com/70246999/173098188-0e4a05fb-7250-4b55-82da-fb8726290650.png)
+
+<b>Game List - Detailed</b>
+![Detailed](https://user-images.githubusercontent.com/70246999/173853030-37834a16-6cbe-4adb-a610-43a845e08fa8.PNG)
+
+<b>Game List - Video <i>**Work in Progress**</i></b>
+![video](https://user-images.githubusercontent.com/70246999/173853263-6fc0203c-730e-41cf-a4c8-dba77092d517.png)
+
 <hr>
 <h3>System Modes</h3>
 <UL>
   <li>Basic - (same as detailed)
   <li>Detailed
-  <li>Video
+  <li>Video - (work in progress)
 </ul>
 <hr>
 
