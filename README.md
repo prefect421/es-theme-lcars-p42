@@ -2,9 +2,9 @@
 
 # es-theme-lcars-p42!
 
-Step into the latest computer interface the 24th century has to offer with this ST:TNG LCARS inspired theme for EmulationStation on RetroPie
+Step into the latest computer interface the 24th century has to offer with this ST:TNG LCARS inspired theme for EmulationStation.
 
-This theme has been tuned to run on RetroPie at a resolution of 1920x1080.
+This theme has been tuned to run at a resolution of 1920x1080.
 <hr>
 <h3>Screen Shot</h3>
 
