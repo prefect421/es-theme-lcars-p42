@@ -107,6 +107,8 @@ This theme has been tuned to run at a resolution of 1920x1080.
 		 
    git clone https://github.com/prefect421/es-theme-lcars-p42.git
   </blockquote>
+  
+ For best results we recommend setting the system transition mode to instant. 
  <hr>
 	<H3> How to Update LCARS-p42</h3>
 1. Close EmulationStation
