@@ -1,5 +1,5 @@
 <!--
-theme name:     Hursty Blue
+theme name:     LCARS-p42
 version         1.0
 -->
 
@@ -104,6 +104,7 @@ version         1.0
 		 <path>./_inc/images/button.png</path>
 	  </image>
    </view>
+
    <view name="basic, detailed, video">
       <text name="md_lbl_rating">
 		 <pos>1 1</pos>
@@ -336,11 +337,23 @@ version         1.0
          <maxSize>0.35 0.46</maxSize>
 		 <default>./_inc/images/nocover.png</default>
       </image>
-
+      <image name="grid-4" extra="true">
+         <origin>0 0</origin>
+           <pos>0.569 0.581</pos>
+           <size>0.0625 0.337</size>
+           <path>./_inc/images/grid-4.png</path>
+      </image>
+      <image name="grid-41" extra="true">
+         <origin>0 0</origin>
+           <pos>0.889 0.581</pos>
+           <size>0.0625 0.337</size>
+           <path>./_inc/images/grid-4.png</path>
+           <rotation>180</rotation>
+      </image>
       <video name="md_video">
-         <pos>0.794 0.745</pos>
+         <pos>0.76 0.749</pos>
          <zIndex>45</zIndex>
-         <maxSize>0.325 0.34</maxSize>
+         <maxSize>0.35 0.39</maxSize>
          <delay>0.00</delay>
 		 <default>./_inc/videos/static.mp4</default>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
