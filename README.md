@@ -14,15 +14,15 @@ This theme has been tuned to run at a resolution of 1920x1080.
 <b>Game List - Detailed</b>
 ![Detailed](https://user-images.githubusercontent.com/70246999/173853030-37834a16-6cbe-4adb-a610-43a845e08fa8.PNG)
 
-<b>Game List - Video <i>**Work in Progress**</i></b>
-![video](https://user-images.githubusercontent.com/70246999/173853263-6fc0203c-730e-41cf-a4c8-dba77092d517.png)
+<b>Game List - Video</b>
+![LCARS-video](https://user-images.githubusercontent.com/70246999/173974762-09ba5f6b-d732-4bff-a228-2b714336126c.PNG)
 
 <hr>
 <h3>System Modes</h3>
 <UL>
   <li>Basic - (same as detailed)
   <li>Detailed
-  <li>Video - (work in progress)
+  <li>Video
 </ul>
 <hr>
 
@@ -87,6 +87,7 @@ This theme has been tuned to run at a resolution of 1920x1080.
 <li>SG-1000
 <li>Super Nintendo
 <li>Stratagus
+<li>TI-((
 <li>TurboGrafx 16
 <li>TurboGrafx CD
 <li>Vectrex
