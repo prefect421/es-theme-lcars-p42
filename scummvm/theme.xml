@@ -35,7 +35,7 @@
                 </image>
                 <image name="console" extra="true">
                    <origin>0 0</origin>
-                   <pos>0.65 0.125</pos>
+                   <pos>0.65 0.231</pos>
                    <maxSize>.3 .72</maxSize>
                    <path>./_inc/console.png</path>
                    <default>./../_inc/images/noconsole.png</default>

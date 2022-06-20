@@ -28,14 +28,14 @@
 				</image>
 				<image name="decal" extra="true">
                    <origin>0 0</origin>
-                   <pos>0.215 0.325</pos>
+                   <pos>0.215 0.519</pos>
                    <maxSize>.35 .55</maxSize>
                    <path>./_inc/logo.svg</path>
 				   <default>./../_inc/images/nologo.png</default>
                 </image>
 				<image name="console" extra="true">
                    <origin>0 0</origin>
-                   <pos>0.65 0.14</pos>
+                   <pos>0.65 0.274</pos>
                    <maxSize>.3 .72</maxSize>
                    <path>./_inc/console.png</path>
 				   <default>./../_inc/images/noconsole.png</default>
