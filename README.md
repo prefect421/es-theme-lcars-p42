@@ -91,6 +91,7 @@ This theme has been tuned to run at a resolution of 1920x1080.
 <li>TurboGrafx 16
 <li>TurboGrafx CD
 <li>Vectrex
+<li>Vic 20
 <li>Videopac
 <li>VirtualBoy
 <li>Wonder Swan
