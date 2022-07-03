@@ -87,7 +87,7 @@ This theme has been tuned to run at a resolution of 1920x1080.
 <li>SG-1000
 <li>Super Nintendo
 <li>Stratagus
-<li>TI-((
+<li>TI-99
 <li>TurboGrafx 16
 <li>TurboGrafx CD
 <li>Vectrex
